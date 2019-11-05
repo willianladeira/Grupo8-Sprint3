@@ -41,7 +41,7 @@ description INTERFACE DE GERENCIAMENTO
 no shutdown
 exit
 ip default-gateway 192.168.247.1
-ip ftp username Wanderson.Santo
+ip ftp username Wanderson.Santos
 ip ftp password Wanderson@15
 ip ftp username Willian.Ladeira
 ip ftp password Willian@15
