@@ -34,12 +34,6 @@ ip address 192.168.247.1 255.255.255.0
 description VLAN 108 CONEXAO COM SW-CORE
 ip helper-address 192.168.247.5
 exit
-ip ftp username Wanderson.Santo
-ip ftp password Wanderson@15
-ip ftp username Willian.Ladeira
-ip ftp password Willian@15
-ip ftp username Rai.alves
-ip ftp password Rai@15
-ip ftp username Gabriel.Silva
-ip ftp password Gabriel@15
+ip ftp username Grupo8
+ip ftp password Grupo@8
 do wr
