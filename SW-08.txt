@@ -27,7 +27,7 @@ interface fastEthernet 0/1
 switchport mode access
 switchport access vlan 18
 description PC 01
-interface fastEthernet 0/2
+interface fastEthernet 0/3
 switchport mode access
 switchport access vlan 18
 description PC 02
@@ -41,14 +41,8 @@ description INTERFACE DE GERENCIAMENTO
 no shutdown
 exit
 ip default-gateway 192.168.247.1
-ip ftp username Wanderson.Santos
-ip ftp password Wanderson@15
-ip ftp username Willian.Ladeira
-ip ftp password Willian@15
-ip ftp username Rai.alves
-ip ftp password Rai@15
-ip ftp username Gabriel.Silva
-ip ftp password Gabriel@15
+ip ftp username Grupo8
+ip ftp password Grupo@8
 do wr 
 
 
